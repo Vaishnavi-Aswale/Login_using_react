@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.main-hd{
+    color: #000C4B;
+    font: 23px Poppins, sans-serif;
+}
+
+.cont.mrt5{
+    color: #909090;
+    font: 12px Poppins, sans-serif;
+    margin: 5px 0px 0px;
+}
+
+.form-control{
+    background: #FFFFFF;
+    padding: 6px 12px 6px 6px;
+    margin-left: "80px";
+}
+
+.container{
+    color: #333333;
+    font: 14px Poppins, sans-serif;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.login-card{
+    color: #333333;
+    font: 14px Poppins, sans-serif;
+    background: #FFFFFF;
+    /* margin: 20px 0px; */
+    padding: 15px;
+}
+.inputfont{
+    background: #FFFFFF;
+    color:  #cccccc;
+    font: 12px Poppins, sans-serif;;
+}
+@media (min-width: 500px){
+    body{
+        width: 100%;
+    }
+}
+
+@media (min-width: 415px){
+    .responsive{
+        display: flex;
+        flex-direction: column;
+    }
+}
+/* .form-group{
+    margin-bottom: 5px !important;
+} */
+/* .emailpass{
+    float: left;
+    margin-left: 0%;
+} */
+/* 
+.img-responsive{​​​​​​​​
+    max-width: 100%;    
+    height: auto;
+}​​​​​​​​
+ 
+img {​​​​​​​​   
+vertical-align: middle;
+}​​​​​​​​
+img {​​​​​​​​
+border: 0;
+}​​​​​​​​ */
